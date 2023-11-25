@@ -1,1 +1,2 @@
 The File1 contains all the info for file, version 1
+The file got updated

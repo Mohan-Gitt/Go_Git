@@ -1,1 +1,2 @@
 The File2 contains all the info for file, version 2
+The file2 is modified
